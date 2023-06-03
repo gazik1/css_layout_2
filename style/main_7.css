@@ -75,7 +75,7 @@
 
     box-sizing: border-box;
     padding-right: 154.51px;
-
+    padding-left: 40px;
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
@@ -88,11 +88,13 @@
 }
 .main_7-contaner-input-img{
     display: flex;
-
+    position: absolute;
     align-self: center;
   
     margin-left: 17.52px;
     margin-right: 12px;
+
+    pointer-events: none;
 }
 .main_7-contaner-input-button{
     position: absolute;

@@ -1,0 +1,19 @@
+.main-1_header-background{
+    position: sticky;
+    top: 0;
+    z-index: 3;  
+    background-color: #FCFBFF;
+}
+.main-1_header{
+    position: sticky;
+    top: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+  
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.menu{
+    cursor: pointer;
+}

@@ -84,6 +84,8 @@
 
 
 .footer_1-contaner-block_2>h3{
+
+    width: max-content;
             margin: 0;
 
             font-family: 'Montserrat';
